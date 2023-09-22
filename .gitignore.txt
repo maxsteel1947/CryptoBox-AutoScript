@@ -1,0 +1,19 @@
+
+**.gitignore (Contents for ignoring commonly used files):**
+
+```gitignore
+# Virtual environment
+venv/
+
+# Compiled Python files
+__pycache__/
+
+# Local development settings
+.idea/
+.vscode/
+*.iml
+
+# Environment variables
+.env
+
+
