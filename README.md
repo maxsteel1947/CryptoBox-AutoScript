@@ -1,3 +1,5 @@
+## Since the Binance web UI is updated this repo might not work to claim crypto box code. Please modify the code to include the updated Remote Target (Binance pay crypto box page)
+
 # CryptoBox-AutoScript
 A python bot to claim Binance crypto box
 This repository contains two Python scripts, `tg.py` and `auto.py`, designed for automating tasks related to Telegram and web interactions.
